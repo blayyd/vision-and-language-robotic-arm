@@ -1,5 +1,9 @@
 # Vision and language robotic arm
 
+## Project overview
+
+![Project overview showing camera and vision-language-action inputs, Arctos control software, CAN motor drivers, and the robotic arm](docs/images/project-overview.png)
+
 ## Team roles
 
 | Team member | GitHub | Responsibilities |
