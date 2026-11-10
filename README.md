@@ -14,4 +14,5 @@
 | Ryan Ong | [@riannongg](https://github.com/riannongg) | End effector design, computer vision and arm assembly |
 
 ## Arm Control Software
-https://github.com/swimmingbrain/arctos-arm
+- https://github.com/swimmingbrain/arctos-arm
+- https://arctosrobotics.com/studio/
