@@ -4,7 +4,7 @@
 
 | Team member | GitHub | Responsibilities |
 | --- | --- | --- |
-| Samuel Phan | [@blayyd](https://github.com/blayyd) | Controls and electrical integration |
+| Samuel Phan | [@blayyd](https://github.com/blayyd) | Controls, electrical integration and computer vision |
 | Dason Nathaniel | | Control testing, calibration and arm assembly |
 | Qui Phu Pham | [@qpp112](https://github.com/qpp112) | Vision-language-action model implementation and finetuning |
-| Ryan Ong | [@riannongg](https://github.com/riannongg) | End effector design and arm assembly |
+| Ryan Ong | [@riannongg](https://github.com/riannongg) | End effector design, computer vision and arm assembly |
